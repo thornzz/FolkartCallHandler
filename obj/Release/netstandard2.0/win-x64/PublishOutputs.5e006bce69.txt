@@ -1,0 +1,4 @@
+D:\Dumpy\PROJECTS\Csharp Projects\UgurSogutmaCallHandler\bin\Release\netstandard2.0\win-x64\publish\K2MPhoneCallApi.dll
+D:\Dumpy\PROJECTS\Csharp Projects\UgurSogutmaCallHandler\bin\Release\netstandard2.0\win-x64\publish\K2MPhoneCallApi.deps.json
+D:\Dumpy\PROJECTS\Csharp Projects\UgurSogutmaCallHandler\bin\Release\netstandard2.0\win-x64\publish\K2MPhoneCallApi.pdb
+D:\Dumpy\PROJECTS\Csharp Projects\UgurSogutmaCallHandler\bin\Release\netstandard2.0\win-x64\publish\MyPhoneCRMIntegration.dll

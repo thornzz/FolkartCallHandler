@@ -1,0 +1,12 @@
+D:\Dumpy\PROJECTS\Csharp Projects\FolkartCallHandler\bin\Debug\netstandard2.0\MyPhoneCRMIntegration.dll
+D:\Dumpy\PROJECTS\Csharp Projects\FolkartCallHandler\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+D:\Dumpy\PROJECTS\Csharp Projects\FolkartCallHandler\obj\Debug\netstandard2.0\FolkartCallHandler.csprojAssemblyReference.cache
+D:\Dumpy\PROJECTS\Csharp Projects\FolkartCallHandler\obj\Debug\netstandard2.0\FolkartCallHandler.AssemblyInfoInputs.cache
+D:\Dumpy\PROJECTS\Csharp Projects\FolkartCallHandler\obj\Debug\netstandard2.0\FolkartCallHandler.AssemblyInfo.cs
+D:\Dumpy\PROJECTS\Csharp Projects\FolkartCallHandler\obj\Debug\netstandard2.0\FolkartCallHandler.csproj.CoreCompileInputs.cache
+D:\Dumpy\PROJECTS\Csharp Projects\FolkartCallHandler\obj\Debug\netstandard2.0\FolkartCallHandler.csproj.CopyComplete
+D:\Dumpy\PROJECTS\Csharp Projects\FolkartCallHandler\bin\Debug\netstandard2.0\FolkartCallHandler.deps.json
+D:\Dumpy\PROJECTS\Csharp Projects\FolkartCallHandler\bin\Debug\netstandard2.0\FolkartCallHandler.dll
+D:\Dumpy\PROJECTS\Csharp Projects\FolkartCallHandler\bin\Debug\netstandard2.0\FolkartCallHandler.pdb
+D:\Dumpy\PROJECTS\Csharp Projects\FolkartCallHandler\obj\Debug\netstandard2.0\FolkartCallHandler.dll
+D:\Dumpy\PROJECTS\Csharp Projects\FolkartCallHandler\obj\Debug\netstandard2.0\FolkartCallHandler.pdb

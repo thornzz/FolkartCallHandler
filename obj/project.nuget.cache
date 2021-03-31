@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ezxDOoq7b9BnFOt/Uk0qgEW9dEl8YIFJHolUhxREqh7E+bITenmzpqvEzVA2+zO2VmH6Rt3JviMqe8peLgGBZw==",
+  "success": true,
+  "projectFilePath": "D:\\Dumpy\\PROJECTS\\Csharp Projects\\FolkartCallHandler\\FolkartCallHandler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ibrah\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

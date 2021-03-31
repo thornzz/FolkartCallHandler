@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>K2MPhoneCallApi</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="MyPhoneCRMIntegration, Version=12.0.6.12, Culture=neutral, PublicKeyToken=bac47dd19dc4098a">
+      <HintPath>C:\ProgramData\3CXPhone for Windows\PhoneApp\MyPhoneCRMIntegration.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed">
+      <HintPath>C:\ProgramData\3CXPhone for Windows\PhoneApp\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

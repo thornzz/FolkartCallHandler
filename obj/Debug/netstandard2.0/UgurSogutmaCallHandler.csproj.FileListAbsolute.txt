@@ -1,0 +1,12 @@
+D:\Dumpy\PROJECTS\Csharp Projects\UgurSogutmaCallHandler\bin\Debug\netstandard2.0\K2MPhoneCallApi.deps.json
+D:\Dumpy\PROJECTS\Csharp Projects\UgurSogutmaCallHandler\bin\Debug\netstandard2.0\K2MPhoneCallApi.dll
+D:\Dumpy\PROJECTS\Csharp Projects\UgurSogutmaCallHandler\bin\Debug\netstandard2.0\K2MPhoneCallApi.pdb
+D:\Dumpy\PROJECTS\Csharp Projects\UgurSogutmaCallHandler\bin\Debug\netstandard2.0\MyPhoneCRMIntegration.dll
+D:\Dumpy\PROJECTS\Csharp Projects\UgurSogutmaCallHandler\obj\Debug\netstandard2.0\UgurSogutmaCallHandler.csprojAssemblyReference.cache
+D:\Dumpy\PROJECTS\Csharp Projects\UgurSogutmaCallHandler\obj\Debug\netstandard2.0\UgurSogutmaCallHandler.AssemblyInfoInputs.cache
+D:\Dumpy\PROJECTS\Csharp Projects\UgurSogutmaCallHandler\obj\Debug\netstandard2.0\UgurSogutmaCallHandler.AssemblyInfo.cs
+D:\Dumpy\PROJECTS\Csharp Projects\UgurSogutmaCallHandler\obj\Debug\netstandard2.0\UgurSogutmaCallHandler.csproj.CoreCompileInputs.cache
+D:\Dumpy\PROJECTS\Csharp Projects\UgurSogutmaCallHandler\obj\Debug\netstandard2.0\UgurSogutmaCallHandler.csproj.CopyComplete
+D:\Dumpy\PROJECTS\Csharp Projects\UgurSogutmaCallHandler\obj\Debug\netstandard2.0\K2MPhoneCallApi.dll
+D:\Dumpy\PROJECTS\Csharp Projects\UgurSogutmaCallHandler\obj\Debug\netstandard2.0\K2MPhoneCallApi.pdb
+D:\Dumpy\PROJECTS\Csharp Projects\UgurSogutmaCallHandler\bin\Debug\netstandard2.0\Newtonsoft.Json.dll

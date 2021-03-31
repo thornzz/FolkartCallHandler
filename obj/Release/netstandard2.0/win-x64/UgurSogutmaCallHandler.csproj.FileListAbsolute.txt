@@ -1,0 +1,11 @@
+D:\Dumpy\PROJECTS\Csharp Projects\UgurSogutmaCallHandler\bin\Release\netstandard2.0\win-x64\K2MPhoneCallApi.deps.json
+D:\Dumpy\PROJECTS\Csharp Projects\UgurSogutmaCallHandler\bin\Release\netstandard2.0\win-x64\K2MPhoneCallApi.dll
+D:\Dumpy\PROJECTS\Csharp Projects\UgurSogutmaCallHandler\bin\Release\netstandard2.0\win-x64\K2MPhoneCallApi.pdb
+D:\Dumpy\PROJECTS\Csharp Projects\UgurSogutmaCallHandler\bin\Release\netstandard2.0\win-x64\MyPhoneCRMIntegration.dll
+D:\Dumpy\PROJECTS\Csharp Projects\UgurSogutmaCallHandler\obj\Release\netstandard2.0\win-x64\UgurSogutmaCallHandler.csprojAssemblyReference.cache
+D:\Dumpy\PROJECTS\Csharp Projects\UgurSogutmaCallHandler\obj\Release\netstandard2.0\win-x64\UgurSogutmaCallHandler.AssemblyInfoInputs.cache
+D:\Dumpy\PROJECTS\Csharp Projects\UgurSogutmaCallHandler\obj\Release\netstandard2.0\win-x64\UgurSogutmaCallHandler.AssemblyInfo.cs
+D:\Dumpy\PROJECTS\Csharp Projects\UgurSogutmaCallHandler\obj\Release\netstandard2.0\win-x64\UgurSogutmaCallHandler.csproj.CoreCompileInputs.cache
+D:\Dumpy\PROJECTS\Csharp Projects\UgurSogutmaCallHandler\obj\Release\netstandard2.0\win-x64\UgurSogutmaCallHandler.csproj.CopyComplete
+D:\Dumpy\PROJECTS\Csharp Projects\UgurSogutmaCallHandler\obj\Release\netstandard2.0\win-x64\K2MPhoneCallApi.dll
+D:\Dumpy\PROJECTS\Csharp Projects\UgurSogutmaCallHandler\obj\Release\netstandard2.0\win-x64\K2MPhoneCallApi.pdb
